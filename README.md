@@ -13,7 +13,7 @@ Sistem, kullanıcıların yükledikleri fatura görsellerini (JPG, PNG) veya PDF
 - Kullanıcı kayıt ve giriş sistemi (JWT tabanlı güvenlik)
 - Çoklu format desteği (JPG, PNG, PDF)
 - Tesseract OCR ile metin çıkarma
-- Ollama LLaMA 3.1 ile akıllı veri analizi
+- Ollama LLaMA 3.1 ve gemma2:9b ile akıllı veri analizi
 - Fatura bilgilerinin yapılandırılmış görüntülenmesi
 - PostgreSQL ile veri saklama
 - Modern ve responsive kullanıcı arayüzü
