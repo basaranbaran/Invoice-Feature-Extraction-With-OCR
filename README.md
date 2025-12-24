@@ -4,7 +4,7 @@ Bahçeşehir Üniversitesi Bilgisayar Mühendisliği Bölümü bitirme projesi o
 
 ## Proje Hakkında
 
-Günümüzde işletmeler ve bireyler, fatura ve fiş verilerini manuel olarak sisteme girme zorluğu yaşamaktadır. Bu proje, Tesseract OCR ile görsel işleme ve Ollama LLM ile akıllı veri çıkarımı yaparak bu süreci otomatikleştirmektedir.
+Günümüzde işletmeler ve bireyler, fatura ve fiş verilerini manuel olarak sisteme girme zorluğu yaşamaktadır. Bu proje, Tesseract OCR ile görsel işleme ve Ollama LLM ile akıllı veri çıkarımı yaparak bu süreci otomatikleştirir.
 
 Sistem, kullanıcıların yükledikleri fatura görsellerini (JPG, PNG) veya PDF dosyalarını analiz eder ve fatura numarası, tarih, toplam tutar, ürün listesi gibi önemli bilgileri yapılandırılmış JSON formatında sunar. Bu sayede manuel veri girişi hatası ortadan kalkar ve işlem süresi önemli ölçüde azalır.
 
